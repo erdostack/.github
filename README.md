@@ -1,0 +1,2 @@
+# .github
+Hub for erdostack
